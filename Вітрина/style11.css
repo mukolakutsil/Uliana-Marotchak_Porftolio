@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	height: 110px;
+	background-image: url("./images/bg-header.jpg");
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+ul {
+	display: flex;
+	width: 80%;
+	margin: auto;
+	justify-content: space-around;
+	list-style: none;
+	margin-top: 30px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.content {
+	width: 80%;
+	height: 1000px;
+	margin: auto;
+}
+
+.content-img {
+	text-align: center;
+	margin-top: 65px;
+	margin-bottom: 65px;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 100px;
+}
